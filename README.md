@@ -1,3 +1,7 @@
+Counter Application 
+- a simple react application which increment and decrement the count based on the user's action
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
