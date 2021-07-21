@@ -1,5 +1,5 @@
 Counter Application 
-- a simple react application which increment and decrement the count based on the user's action
+- A simple react application which increment and decrement the count based on the user's action
 
 
 # Getting Started with Create React App
